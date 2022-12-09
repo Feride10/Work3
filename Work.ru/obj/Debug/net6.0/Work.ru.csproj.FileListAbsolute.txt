@@ -1,0 +1,15 @@
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\bin\Debug\net6.0\Work.ru.exe
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\bin\Debug\net6.0\Work.ru.deps.json
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\bin\Debug\net6.0\Work.ru.runtimeconfig.json
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\bin\Debug\net6.0\Work.ru.dll
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\bin\Debug\net6.0\Work.ru.pdb
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\obj\Debug\net6.0\Work.ru.csproj.AssemblyReference.cache
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\obj\Debug\net6.0\Work.ru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\obj\Debug\net6.0\Work.ru.AssemblyInfoInputs.cache
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\obj\Debug\net6.0\Work.ru.AssemblyInfo.cs
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\obj\Debug\net6.0\Work.ru.csproj.CoreCompileInputs.cache
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\obj\Debug\net6.0\Work.ru.dll
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\obj\Debug\net6.0\refint\Work.ru.dll
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\obj\Debug\net6.0\Work.ru.pdb
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\obj\Debug\net6.0\Work.ru.genruntimeconfig.cache
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\obj\Debug\net6.0\ref\Work.ru.dll
