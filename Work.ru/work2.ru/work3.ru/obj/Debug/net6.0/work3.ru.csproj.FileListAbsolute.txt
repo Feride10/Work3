@@ -1,0 +1,5 @@
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\work2.ru\work3.ru\obj\Debug\net6.0\work3.ru.csproj.AssemblyReference.cache
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\work2.ru\work3.ru\obj\Debug\net6.0\work3.ru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\work2.ru\work3.ru\obj\Debug\net6.0\work3.ru.AssemblyInfoInputs.cache
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\work2.ru\work3.ru\obj\Debug\net6.0\work3.ru.AssemblyInfo.cs
+C:\Users\Feride\2 семинар\3 семинар\Work.ru\work2.ru\work3.ru\obj\Debug\net6.0\work3.ru.csproj.CoreCompileInputs.cache
